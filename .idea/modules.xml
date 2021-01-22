@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Tic-Tac-Toe.Problems-Sum_of_numbers_in_the_range.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Tic-Tac-Toe.Problems-Sum_of_numbers_in_the_range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Tic-Tac-Toe.Problems-Sum_of_numbers_in_the_range.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Tic-Tac-Toe.Problems-Sum_of_numbers_in_the_range.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Tic-Tac-Toe.Problems-Sum_of_numbers_in_the_range.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Tic-Tac-Toe.Problems-Sum_of_numbers_in_the_range.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>
